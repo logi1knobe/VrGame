@@ -1,1 +1,3 @@
-# VrGame
+# VrGame  
+## Useful resources:  
+ - TBD
